@@ -5,7 +5,6 @@ const page = () => {
   return (
     <>
       <h1>contact page</h1>
-      <p>{data}</p>
     </>
   )
 }
