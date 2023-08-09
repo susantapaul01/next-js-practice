@@ -1,0 +1,6 @@
+
+## using the page.js directory instead of the /app directory.
+## All component should be instead of the /app directory.
+## A root layout is the top-most layout in the root app directory. It is used to define the <html> and <body> tags and other globally shared UI
+## Folders are used to define routes. A route is a single path of nested folders, following the file-system hierarchy from the root folder down to a final leaf folder that includes a page.js file.
+## Each folder in a route represents a route segment. Each route segment is mapped to a corresponding segment in a URL path.
